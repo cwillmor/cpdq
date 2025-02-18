@@ -8,13 +8,24 @@
   <sources>
     <source filename="cdpq-black.ufo" name="source.1" familyname="CDPQ" stylename="Regular">
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="weight" xvalue="700"/>
       </location>
     </source>
     <source filename="cdpq.ufo" name="source.2" familyname="CDPQ" stylename="Black">
       <location>
-        <dimension name="weight" xvalue="700"/>
+        <dimension name="weight" xvalue="400"/>
       </location>
     </source>
   </sources>
+  <lib>
+    <dict>
+      <key>com.letterror.designspaceEditor.previewLocation</key>
+      <dict>
+        <key>weight</key>
+        <real>400.0</real>
+      </dict>
+      <key>com.letterror.designspaceEditor.previewText</key>
+      <string>pdcq</string>
+    </dict>
+  </lib>
 </designspace>
