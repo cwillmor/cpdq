@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="400" maximum="700" default="400">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="cdpq-black.ufo" name="source.1" familyname="CDPQ" stylename="Regular">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="cdpq.ufo" name="source.2" familyname="CDPQ" stylename="Black">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+    </source>
+  </sources>
+</designspace>
